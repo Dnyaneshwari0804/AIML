@@ -24,6 +24,6 @@ Learning AI & ML from scratch with Python and documenting my daily progress.
   - `\t` (Tab)
   - `\"` (Double Quotes)
   - `\\` (Backslash)
-
+- Variables and Data Types 
 ## Author
 **Dnyaneshwari Thombal**
