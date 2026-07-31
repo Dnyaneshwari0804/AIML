@@ -1,3 +1,4 @@
+
 fruit=[]
 f1=input("Enter fruit name")
 fruit.append(f1)
@@ -14,3 +15,7 @@ fruit.append(f6)
 f7=input("Enter fruit name")
 fruit.append(f7)
 print(fruit)
+
+
+
+
