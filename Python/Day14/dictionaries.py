@@ -22,3 +22,5 @@ print(dict1.get("ram")) #print none
 print(dict1["ram"]) #returns an error
 
 print(dict1.pop("ram"))
+
+#d{}  empty dict
