@@ -19,3 +19,15 @@ d1.update({name: lang})
 print(d1)
 
 #if the lang are same then the last lang is print as output
+ 
+
+
+
+
+
+
+
+
+
+
+ #nothing will happen
