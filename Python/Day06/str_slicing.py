@@ -11,4 +11,9 @@ print(fruit[1:4]) # including 1 but not 4
 print(fruit[:5])
 print(fruit[0:-3])
 #print(fruit[0:len(fruit)-3]) so i
-print(fruit[-3:-1])
+print(fruit[-3:-1]) #converted first into their positive index
+print(fruit[2:4])
+
+word= "amazing"
+print(word[1:6:2]) #mzn
+
