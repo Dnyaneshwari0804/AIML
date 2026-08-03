@@ -14,6 +14,8 @@ b=6
 b+=3 #inc the value of b by 3 and then assign it to b
 b-=3  # dec the value of b by 3 and then assign it to b
 print(b)
+
+
 # comaprison opertaor
 
 d = 5<4 
