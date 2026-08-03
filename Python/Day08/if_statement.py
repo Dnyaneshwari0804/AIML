@@ -4,3 +4,6 @@
 a = int(input("Enter your age"))
 if a>=18:
     print("Eligible for driving")    #executes only once when the condition is true
+
+
+    #indentation means you have entered in the if block
