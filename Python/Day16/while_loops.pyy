@@ -1,0 +1,10 @@
+i=1
+
+while(i<6):
+   print(i)
+   i= i+1    
+  #control the flow of exection until the condition is true
+
+#condtion check first  if its true the condition is executed otherwise it is not executed
+o
+
